@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Customer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Customer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Customer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Customer/1.0.0": {
+      "type": "project",
+      "path": "../Customer/Customer.csproj",
+      "msbuildProject": "../Customer/Customer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Customer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/shermanbrown/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/Customer.TextParser.csproj",
+      "projectName": "Customer.TextParser",
+      "projectPath": "/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/Customer.TextParser.csproj",
+      "packagesPath": "/Users/shermanbrown/.nuget/packages/",
+      "outputPath": "/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/Users/shermanbrown/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/Users/shermanbrown/Source/CustomerLeads/Customer/Customer.csproj": {
+              "projectPath": "/Users/shermanbrown/Source/CustomerLeads/Customer/Customer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

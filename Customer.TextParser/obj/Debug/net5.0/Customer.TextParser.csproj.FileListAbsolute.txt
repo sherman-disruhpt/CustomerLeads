@@ -1,0 +1,15 @@
+/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/bin/Debug/net5.0/Customer.TextParser.deps.json
+/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/bin/Debug/net5.0/Customer.TextParser.dll
+/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/bin/Debug/net5.0/ref/Customer.TextParser.dll
+/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/bin/Debug/net5.0/Customer.TextParser.pdb
+/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/bin/Debug/net5.0/Customer.dll
+/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/bin/Debug/net5.0/Customer.pdb
+/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/obj/Debug/net5.0/Customer.TextParser.csprojAssemblyReference.cache
+/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/obj/Debug/net5.0/Customer.TextParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/obj/Debug/net5.0/Customer.TextParser.AssemblyInfoInputs.cache
+/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/obj/Debug/net5.0/Customer.TextParser.AssemblyInfo.cs
+/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/obj/Debug/net5.0/Customer.TextParser.csproj.CoreCompileInputs.cache
+/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/obj/Debug/net5.0/Customer.TextParser.csproj.CopyComplete
+/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/obj/Debug/net5.0/Customer.TextParser.dll
+/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/obj/Debug/net5.0/ref/Customer.TextParser.dll
+/Users/shermanbrown/Source/CustomerLeads/Customer.TextParser/obj/Debug/net5.0/Customer.TextParser.pdb

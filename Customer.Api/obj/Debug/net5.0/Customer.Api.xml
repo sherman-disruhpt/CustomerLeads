@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Customer.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Customer.Api.Controllers.LeadsController.CreateCustomer(System.String)">
+             <summary>
+             Creates a Customer Lead
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /leads
+                 {
+                    Emmerich|Summer|trailer|HVAC|2021-07-22|+43177437725
+                 }
+            
+             </remarks>
+             <param name="data">Consists of the following 6 fields: last name, first name, property type (house, condo, trailer),  start date, project, and phone number separated by either a pipe, comma, or space delimiter</param>
+             <returns>A newly created Customer</returns>
+             <response code="201">Returns the newly created item</response>
+             <response code="400">If the item is null or not the correct format</response>   
+        </member>
+        <member name="M:Customer.Api.Controllers.LeadsController.GetByPropertyType">
+            <summary>
+            Retrieves Customer Leads sorted by property type
+            </summary>
+            <returns>A list of customer leads sorted by property type</returns>
+            <response code="200">Returns a list of customer leads sorted by property type</response>
+        </member>
+        <member name="M:Customer.Api.Controllers.LeadsController.GetByStartDate">
+            <summary>
+            Retrieves Customer Leads sorted by start date
+            </summary>
+            <returns>A list of customer leads sorted by start date</returns>
+            <response code="200">Returns a list of customer leads sorted by start date</response>
+        </member>
+        <member name="M:Customer.Api.Controllers.LeadsController.GetByProject">
+            <summary>
+            Retrieves Customer Leads sorted by project
+            </summary>
+            <returns>A list of customer leads sorted by project</returns>
+            <response code="200">Returns a list of customer leads sorted by project</response>
+        </member>
+        <member name="M:Customer.Api.Controllers.LeadsController.GetDuplicates">
+            <summary>
+            Retrieves Customer Leads duplicates from external source
+            </summary>
+            <returns>A list of customer leads duplicates</returns>
+            <response code="200">Returns a list of customer leads duplicates</response>
+        </member>
+    </members>
+</doc>

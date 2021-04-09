@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Customer.App/1.0.0": {
+        "dependencies": {
+          "Customer": "1.0.0",
+          "Customer.TextParser": "1.0.0"
+        },
+        "runtime": {
+          "Customer.App.dll": {}
+        }
+      },
+      "Customer/1.0.0": {
+        "runtime": {
+          "Customer.dll": {}
+        }
+      },
+      "Customer.TextParser/1.0.0": {
+        "dependencies": {
+          "Customer": "1.0.0"
+        },
+        "runtime": {
+          "Customer.TextParser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Customer.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Customer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Customer.TextParser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

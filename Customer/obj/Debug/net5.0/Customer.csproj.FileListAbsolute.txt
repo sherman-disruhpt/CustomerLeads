@@ -1,0 +1,12 @@
+/Users/shermanbrown/Source/CustomerLeads/Customer/bin/Debug/net5.0/Customer.deps.json
+/Users/shermanbrown/Source/CustomerLeads/Customer/bin/Debug/net5.0/Customer.dll
+/Users/shermanbrown/Source/CustomerLeads/Customer/bin/Debug/net5.0/ref/Customer.dll
+/Users/shermanbrown/Source/CustomerLeads/Customer/bin/Debug/net5.0/Customer.pdb
+/Users/shermanbrown/Source/CustomerLeads/Customer/obj/Debug/net5.0/Customer.csprojAssemblyReference.cache
+/Users/shermanbrown/Source/CustomerLeads/Customer/obj/Debug/net5.0/Customer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shermanbrown/Source/CustomerLeads/Customer/obj/Debug/net5.0/Customer.AssemblyInfoInputs.cache
+/Users/shermanbrown/Source/CustomerLeads/Customer/obj/Debug/net5.0/Customer.AssemblyInfo.cs
+/Users/shermanbrown/Source/CustomerLeads/Customer/obj/Debug/net5.0/Customer.csproj.CoreCompileInputs.cache
+/Users/shermanbrown/Source/CustomerLeads/Customer/obj/Debug/net5.0/Customer.dll
+/Users/shermanbrown/Source/CustomerLeads/Customer/obj/Debug/net5.0/ref/Customer.dll
+/Users/shermanbrown/Source/CustomerLeads/Customer/obj/Debug/net5.0/Customer.pdb
